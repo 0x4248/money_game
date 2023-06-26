@@ -1,0 +1,16 @@
+{
+    "name": "money_game",
+    "description": "A discord money bot like money game, but on a website.",
+    "version": "",
+    "main_file": "index.html",
+    "author": "Lewis Evans",
+    "license": "GNU General Public License v3.0",
+    "url": "/money_game",
+    "email": "none",
+    "languages": [
+        "html",
+        "css",
+        "javascript"
+    ],
+    "actions": {}
+}
